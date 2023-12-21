@@ -13,7 +13,7 @@ This will create a folder called `node_modules` with all the necessary libraries
 After that,
 
 ```bash
-`npm start`
+npm start
 ```
 
 Runs the app in the development mode.\
