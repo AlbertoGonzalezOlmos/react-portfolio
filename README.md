@@ -1,12 +1,20 @@
-# Getting Started with Create React App
+# Example project with Create React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Template for the creation of one-page react websites with basic interactive features such as smooth transition to different sections, hide-show navigation bar, cards, contact form with validation, etc.
 
-## Available Scripts
+To set up the project locally run:
 
-In the project directory, you can run:
+```bash
+npm install
+```
 
-### `npm start`
+This will create a folder called `node_modules` with all the necessary libraries inside.
+
+After that,
+
+```bash
+`npm start`
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
