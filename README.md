@@ -1,6 +1,8 @@
 # Example project with Create React
 
-Template for the creation of one-page react websites with basic interactive features such as smooth transition to different sections, hide-show navigation bar, cards, contact form with validation, etc.
+Template for the creation of one-page react websites with basic interactive features such as smooth transition to different sections, hide-show navigation bar, cards, contact form with validation, etc. It also serves as an exercise to put into practice react concepts such as modules, hooks and jsx syntax.
+
+This project is the final assignment in the Meta advanced React course in Coursera.
 
 To set up the project locally run:
 
